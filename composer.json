@@ -1,0 +1,15 @@
+{
+  "require-dev":{
+    "uraquitanfilho/php_padrao_projeto":"*"
+  },
+  "autoload":{
+    "psr-4":{
+      "SyxPHP\\Html\\":"src"
+    }
+  },
+  "type": "library",
+  "require":{
+    "php": ">5.3.18"
+  }
+  
+}
