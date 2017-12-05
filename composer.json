@@ -1,7 +1,11 @@
 {
-  "require-dev":{
-    "uraquitanfilho/php_padrao_projeto":"*"
-  },
+  "name": "PHP Padrão de Projetos",
+  "description": "Padrão de projetos em PHP",
+  "authors":[{
+    "name": "Uraquitan Filho",
+    "email": "uraquitan@syx.com.br",
+    "role":"owner"
+  }],
   "autoload":{
     "psr-4":{
       "SyxPHP\\Html\\":"src"
